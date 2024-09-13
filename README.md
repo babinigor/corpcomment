@@ -1,5 +1,5 @@
 # CorpComment
-## TO SEE THE RESULT, TAP ON THE PICTURE 👆 <p><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+## <p>TO SEE THE RESULT, TAP ON THE PICTURE 👆 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></p>
 <a href="https://babinigor.github.io/corpcomment/"><img src="https://github.com/user-attachments/assets/0fc9c212-a741-4b94-8d5b-72e32775385e"/></a>
 
